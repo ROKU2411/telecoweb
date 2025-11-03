@@ -1,0 +1,7 @@
+git init
+git remote add origin + dirección de git
+git status -s
+git add + archivo
+git commit -m "comentario"
+git push -u origin main
+
